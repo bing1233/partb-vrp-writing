@@ -1,0 +1,4 @@
+interface:
+  display_name: "Part B VRP Writing"
+  short_description: "Revise VRP papers using checked Part B writing examples"
+  default_prompt: "Use $partb-vrp-writing to review and revise this manuscript, explain the grounds for substantive changes, and preserve its research assumptions."

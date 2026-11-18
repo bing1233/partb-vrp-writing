@@ -1,0 +1,11 @@
+# Local working material and credentials
+/tmp/
+/output/
+/.env
+/.env.*
+/.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+desktop.ini
